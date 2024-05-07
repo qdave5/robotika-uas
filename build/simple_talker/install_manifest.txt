@@ -1,0 +1,15 @@
+/home/user/catkin_ws/install/simple_talker/share/ament_index/resource_index/package_run_dependencies/simple_talker
+/home/user/catkin_ws/install/simple_talker/share/ament_index/resource_index/parent_prefix_path/simple_talker
+/home/user/catkin_ws/install/simple_talker/share/simple_talker/environment/ament_prefix_path.sh
+/home/user/catkin_ws/install/simple_talker/share/simple_talker/environment/ament_prefix_path.dsv
+/home/user/catkin_ws/install/simple_talker/share/simple_talker/environment/path.sh
+/home/user/catkin_ws/install/simple_talker/share/simple_talker/environment/path.dsv
+/home/user/catkin_ws/install/simple_talker/share/simple_talker/local_setup.bash
+/home/user/catkin_ws/install/simple_talker/share/simple_talker/local_setup.sh
+/home/user/catkin_ws/install/simple_talker/share/simple_talker/local_setup.zsh
+/home/user/catkin_ws/install/simple_talker/share/simple_talker/local_setup.dsv
+/home/user/catkin_ws/install/simple_talker/share/simple_talker/package.dsv
+/home/user/catkin_ws/install/simple_talker/share/ament_index/resource_index/packages/simple_talker
+/home/user/catkin_ws/install/simple_talker/share/simple_talker/cmake/simple_talkerConfig.cmake
+/home/user/catkin_ws/install/simple_talker/share/simple_talker/cmake/simple_talkerConfig-version.cmake
+/home/user/catkin_ws/install/simple_talker/share/simple_talker/package.xml

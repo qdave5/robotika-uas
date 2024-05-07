@@ -1,0 +1,42 @@
+[0.030s] Invoking command in '/home/user/catkin_ws/build/simple_talker': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/user/catkin_ws/src/simple_talker -DCMAKE_INSTALL_PREFIX=/home/user/catkin_ws/install/simple_talker
+[0.742s] -- The C compiler identification is GNU 11.4.0
+[2.847s] -- The CXX compiler identification is GNU 11.4.0
+[4.249s] -- Detecting C compiler ABI info
+[4.661s] -- Detecting C compiler ABI info - done
+[4.672s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.680s] -- Detecting C compile features
+[4.682s] -- Detecting C compile features - done
+[4.688s] -- Detecting CXX compiler ABI info
+[5.106s] -- Detecting CXX compiler ABI info - done
+[5.117s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[5.117s] -- Detecting CXX compile features
+[5.118s] -- Detecting CXX compile features - done
+[5.133s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[5.336s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[5.509s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[5.633s] -- Added test 'lint_cmake' to check CMake code style
+[5.637s] -- Added test 'xmllint' to check XML markup files
+[5.640s] -- Configuring done
+[5.645s] -- Generating done
+[5.646s] -- Build files have been written to: /home/user/catkin_ws/build/simple_talker
+[5.652s] Invoked command in '/home/user/catkin_ws/build/simple_talker' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/user/catkin_ws/src/simple_talker -DCMAKE_INSTALL_PREFIX=/home/user/catkin_ws/install/simple_talker
+[5.655s] Invoking command in '/home/user/catkin_ws/build/simple_talker': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/user/catkin_ws/build/simple_talker -- -j16 -l16
+[5.695s] Invoked command in '/home/user/catkin_ws/build/simple_talker' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/user/catkin_ws/build/simple_talker -- -j16 -l16
+[5.732s] Invoking command in '/home/user/catkin_ws/build/simple_talker': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/user/catkin_ws/build/simple_talker
+[5.738s] -- Install configuration: ""
+[5.739s] -- Installing: /home/user/catkin_ws/install/simple_talker/share/ament_index/resource_index/package_run_dependencies/simple_talker
+[5.739s] -- Installing: /home/user/catkin_ws/install/simple_talker/share/ament_index/resource_index/parent_prefix_path/simple_talker
+[5.741s] -- Installing: /home/user/catkin_ws/install/simple_talker/share/simple_talker/environment/ament_prefix_path.sh
+[5.741s] -- Installing: /home/user/catkin_ws/install/simple_talker/share/simple_talker/environment/ament_prefix_path.dsv
+[5.741s] -- Installing: /home/user/catkin_ws/install/simple_talker/share/simple_talker/environment/path.sh
+[5.742s] -- Installing: /home/user/catkin_ws/install/simple_talker/share/simple_talker/environment/path.dsv
+[5.742s] -- Installing: /home/user/catkin_ws/install/simple_talker/share/simple_talker/local_setup.bash
+[5.743s] -- Installing: /home/user/catkin_ws/install/simple_talker/share/simple_talker/local_setup.sh
+[5.743s] -- Installing: /home/user/catkin_ws/install/simple_talker/share/simple_talker/local_setup.zsh
+[5.744s] -- Installing: /home/user/catkin_ws/install/simple_talker/share/simple_talker/local_setup.dsv
+[5.744s] -- Installing: /home/user/catkin_ws/install/simple_talker/share/simple_talker/package.dsv
+[5.744s] -- Installing: /home/user/catkin_ws/install/simple_talker/share/ament_index/resource_index/packages/simple_talker
+[5.745s] -- Installing: /home/user/catkin_ws/install/simple_talker/share/simple_talker/cmake/simple_talkerConfig.cmake
+[5.745s] -- Installing: /home/user/catkin_ws/install/simple_talker/share/simple_talker/cmake/simple_talkerConfig-version.cmake
+[5.745s] -- Installing: /home/user/catkin_ws/install/simple_talker/share/simple_talker/package.xml
+[5.748s] Invoked command in '/home/user/catkin_ws/build/simple_talker' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/user/catkin_ws/build/simple_talker
