@@ -1,6 +1,0 @@
-Invoking command in '/home/user/catkin_ws/build/simple_talker': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/user/catkin_ws/src/simple_talker -DCMAKE_INSTALL_PREFIX=/home/user/catkin_ws/install/simple_talker
-Invoked command in '/home/user/catkin_ws/build/simple_talker' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/user/catkin_ws/src/simple_talker -DCMAKE_INSTALL_PREFIX=/home/user/catkin_ws/install/simple_talker
-Invoking command in '/home/user/catkin_ws/build/simple_talker': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/user/catkin_ws/build/simple_talker -- -j16 -l16
-Invoked command in '/home/user/catkin_ws/build/simple_talker' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/user/catkin_ws/build/simple_talker -- -j16 -l16
-Invoking command in '/home/user/catkin_ws/build/simple_talker': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/user/catkin_ws/build/simple_talker
-Invoked command in '/home/user/catkin_ws/build/simple_talker' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/user/catkin_ws/build/simple_talker

@@ -1,3 +1,5 @@
+/home/user/catkin_ws/install/simple_talker/lib/simple_talker/talker
+/home/user/catkin_ws/install/simple_talker/lib/simple_talker/listener
 /home/user/catkin_ws/install/simple_talker/share/ament_index/resource_index/package_run_dependencies/simple_talker
 /home/user/catkin_ws/install/simple_talker/share/ament_index/resource_index/parent_prefix_path/simple_talker
 /home/user/catkin_ws/install/simple_talker/share/simple_talker/environment/ament_prefix_path.sh

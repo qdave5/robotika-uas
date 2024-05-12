@@ -1,0 +1,20 @@
+cd /home/user/CoppeliaSim_Edu_V4_6_0_rev18_Ubuntu22_04/
+./coppeliaSim.sh
+
+
+source /opt/ros/humble/setup.bash
+source install/local_setup.bash
+
+
+cd /home/user/catkin_ws/
+source /opt/ros/humble/setup.bash
+export COPPELIASIM_ROOT_DIR=/home/user/CoppeliaSim_Edu_V4_6_0_rev18_Ubuntu22_04/
+colcon build
+source install/local_setup.bash
+
+ros2 run simple_talker talker
+ros2 run simple_listener listener
+ros2 run visualization grid_visualizer
+ros2 run navigation navigate
+ros2 run mapping mapping
+
