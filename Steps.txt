@@ -1,13 +1,16 @@
 source /opt/ros/humble/setup.bash
 source install/local_setup.bash
 
+
+# for auto update??
+colcon build --symlink-install
+
 # run coppeliaSim (assume already extract in /home/user)
 # need to run source /opt/ros/humble/setup.bash for connect coppeliasSim with ROS 2 project
 source /opt/ros/humble/setup.bash
 cd /home/user/CoppeliaSim_Edu_V4_6_0_rev18_Ubuntu22_04/
 ./coppeliaSim.sh
 
-# build project 
 cd /home/user/catkin_ws/
 source /opt/ros/humble/setup.bash
 export COPPELIASIM_ROOT_DIR=/home/user/CoppeliaSim_Edu_V4_6_0_rev18_Ubuntu22_04/
@@ -22,6 +25,15 @@ source install/local_setup.bash
 # add more command 
 ros2 run simple_talker talker
 ros2 run simple_listener listener
+
 ros2 run visualization grid_visualizer
 ros2 run navigation navigate
 ros2 run mapping mapping
+
+ros2 topic pub /goal_point geometry_msgs/msg/Point "{x: 0, y: 0, z: 0}"
+
+# keyboard read
+pynput
+
+#
+rqt_graph
